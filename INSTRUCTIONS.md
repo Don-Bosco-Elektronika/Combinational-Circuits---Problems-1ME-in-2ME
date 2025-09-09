@@ -62,17 +62,20 @@
 
 - **ES:**  
   - Sube un archivo de Proteus con la simulación de la ecuación canónica y con el esquema lógico simplificado.  
-  - Sube también un archivo del montaje en el Simulador Digital Protoboard. 
+  - Sube también un archivo del montaje en el Simulador Digital Protoboard.
+  - Sube un archivo pdf con los 6 primeros puntos escritos a mano. 
   - **Todos los archivos deben incluir tu nombre en el nombre del archivo.**  
 
 - **EU:**  
   - Igo Proteus fitxategi bat, ekuazio kanonikoaren simulazioarekin eta sinplifikaturiko eskema logikoarekin.
   - Igo baita ere Simuladore Digital Protoboard-eko muntaketaren fitxategia.
+  - Igo pdf fitxategi bat eskuz idatzitako lehen 6 puntuekin.  
   - **Fitxategi guztiek zure izena eduki behar dute fitxategiaren izenean.**
 
 - **EN:**  
   - Upload a Proteus file with the simulation of the canonical equation and the simplifier logic diagram.
   - Also upload a file of the assembly in the Digital Protoboard Simulator.
+  - Upload a PDF file with the first 6 points handwritten.
   - **All files must include your name in the file name.**
 
 ---
